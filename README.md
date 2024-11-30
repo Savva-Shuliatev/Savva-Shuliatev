@@ -3,7 +3,7 @@
 * 👀 I've been working as an iOS developer for 3+ years. I've developed banking, [transport](https://apps.apple.com/app/id1227002793), [parking](https://apps.apple.com/app/id1268850750) and [social](https://apps.apple.com/app/id1555210308) apps
 * 🎓 I’m studying at [Information Science and Computation Technology in HSE University](https://www.hse.ru/en/ba/isct/)
 * 🍏 I’m leading the [iOS blog](https://t.me/ios_iss_blog)
-* 🌟 [![UIBottomSheet](https://img.shields.io/badge/Author-UIBottomSheet-red)](https://github.com/SwiftUIX/SwiftUIX)
+* 🌟 [![DynamicBottomSheet](https://img.shields.io/badge/Author-DynamicBottomSheet-red)](https://github.com/Savva-Shuliatev/DynamicBottomSheet)
 * 🔗 [![SwiftUIX](https://img.shields.io/badge/Contributor-SwiftUIX-blue)](https://github.com/SwiftUIX/SwiftUIX)
 * 🛠️ [![LeetCode](https://badges.peiyuan.ch/leetcode/savvashuliatev/solved?logo=leetcode&label=LeetCode&style=flat-rounded&color=white)](https://leetcode.com/savvashuliatev/)
 
