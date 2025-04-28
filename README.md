@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-* 👀 I've been working as an iOS developer for 3+ years. I've developed banking, [transport](https://apps.apple.com/app/id1227002793), [parking](https://apps.apple.com/app/id1268850750) and [social](https://apps.apple.com/app/id1555210308) apps
+* 👀 I've been working as an iOS developer for 3+ years. I've developed banking, [transport](https://apps.apple.com/app/id1227002793), [MaaS](https://apps.apple.com/ru/app/id6741756077), [parking](https://apps.apple.com/app/id1268850750) and [social](https://apps.apple.com/app/id1555210308) apps
 * 🎓 I’m studying at [Information Science and Computation Technology in HSE University](https://www.hse.ru/en/ba/isct/)
 * 🍏 I’m leading the [iOS blog](https://t.me/ios_iss_blog)
 * 🌟 [![DynamicBottomSheet](https://img.shields.io/badge/Author-DynamicBottomSheet-red)](https://github.com/Savva-Shuliatev/DynamicBottomSheet)
