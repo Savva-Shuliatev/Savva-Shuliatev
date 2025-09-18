@@ -4,7 +4,7 @@
 * 🎓 I’m studying at [Information Science and Computation Technology in HSE University](https://www.hse.ru/en/ba/isct/)
 * 🍏 I’m leading the [iOS blog](https://t.me/ios_iss_blog)
 * 🌟 [![DynamicBottomSheet](https://img.shields.io/badge/Author-DynamicBottomSheet-red)](https://github.com/Savva-Shuliatev/DynamicBottomSheet)
-* 🔗 [![SwiftUIX](https://img.shields.io/badge/Contributor-SwiftUIX-blue)](https://github.com/SwiftUIX/SwiftUIX)
+* 🔗 [![RouteComposer](https://img.shields.io/badge/Contributor-RouteComposer-blue)](https://github.com/ekazaev/route-composer)  [![SwiftUIX](https://img.shields.io/badge/Contributor-SwiftUIX-lavender)](https://github.com/SwiftUIX/SwiftUIX)
 * 🛠️ [![LeetCode](https://badges.peiyuan.ch/leetcode/savvashuliatev/solved?logo=leetcode&label=LeetCode&style=flat-rounded&color=white)](https://leetcode.com/savvashuliatev/)
 
 ## Tech Stack
